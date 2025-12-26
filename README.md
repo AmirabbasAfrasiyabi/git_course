@@ -1,8 +1,5 @@
 # Git Courses
 
-
-# Git Courses
-
 This repository contains the courses I've completed for learning Git. Below are the links and details for each course.
 
 ## Courses
